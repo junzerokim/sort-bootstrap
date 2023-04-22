@@ -2,4 +2,4 @@
 
 React, Bootstrap
 
-https://user-images.githubusercontent.com/72692386/230820787-1466030a-d42b-4198-9caa-5cc5c3efb5e5.mov
+![제목 없는 디자인](https://user-images.githubusercontent.com/72692386/233794728-fd0905f0-f607-44dd-bcd7-68d6bac65daf.gif)
