@@ -2,4 +2,4 @@
 
 React, Bootstrap
 
-![제목 없는 디자인](https://user-images.githubusercontent.com/72692386/233794728-fd0905f0-f607-44dd-bcd7-68d6bac65daf.gif)
+![제목 없는 디자인](https://user-images.githubusercontent.com/72692386/233794889-13242ae8-13a6-40d5-b954-c3d0c3e567aa.gif)
